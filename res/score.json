@@ -1,0 +1,126 @@
+{
+    "en": {
+        "SCHOOL": {
+            "tester": {
+                "guessed_word": true,
+                "date": "2016-05-21T14:26:28",
+                "time_needed": 9,
+                "game_score": 14.67,
+                "tries": 3,
+                "game_state": "win"
+            }
+        },
+        "HOUSE": {
+            "bob": {
+                "guessed_word": false,
+                "date": "2016-05-10T20:39:44",
+                "time-needed": 400,
+                "game_score": 10,
+                "tries": 10,
+                "game_state": "loose"
+            }
+        },
+        "CAR": {
+            "Ben O.": {
+                "guessed_word": false,
+                "date": "2016-05-23T12:56:34",
+                "time_needed": 99,
+                "game_score": 2.72,
+                "tries": 11,
+                "game_state": "win"
+            }
+        }
+    },
+    "de": {
+        "SCHULE": {
+            "trotel": {
+                "guessed_word": false,
+                "date": "2016-05-21T12:04:53",
+                "time_needed": 4,
+                "game_score": -2.3,
+                "tries": 12,
+                "game_state": "loose"
+            },
+            "clos": {
+                "guessed_word": false,
+                "date": "2016-05-21T11:21:37",
+                "time_needed": 3,
+                "game_score": -2.275,
+                "tries": 12,
+                "game_state": "loose"
+            },
+            "Ben O.": {
+                "guessed_word": false,
+                "date": "2016-05-23T12:53:15",
+                "time_needed": 55,
+                "game_score": 10.12,
+                "tries": 11,
+                "game_state": "win"
+            }
+        },
+        "TELEFON": {
+            "Willipedia": {
+                "guessed_word": true,
+                "date": "2016-05-23T09:01:49",
+                "time_needed": 9,
+                "game_score": 18.77,
+                "tries": 1,
+                "game_state": "win"
+            },
+            "zusaz": {
+                "guessed_word": true,
+                "date": "2016-05-21T12:04:28",
+                "time_needed": 4,
+                "game_score": 11.9,
+                "tries": 2,
+                "game_state": "win"
+            }
+        },
+        "COMPUTER": {
+            "Willipedia": {
+                "guessed_word": false,
+                "date": "2016-05-18T10:47:35",
+                "time_needed": 150,
+                "game_score": 10,
+                "tries": 3,
+                "game_state": "win"
+            }
+        },
+        "AUTO": {
+            "a": {
+                "guessed_word": true,
+                "date": "2016-05-21T11:11:46",
+                "time_needed": 4,
+                "game_score": 13.6,
+                "tries": 4,
+                "game_state": "win"
+            },
+            "Willipedia": {
+                "guessed_word": true,
+                "date": "2016-05-18T12:57:59",
+                "time_needed": 17,
+                "game_score": 10,
+                "tries": 2,
+                "game_state": "win"
+            }
+        },
+        "HAUS": {
+            "Willi": {
+                "guessed_word": true,
+                "date": "2016-05-23T08:57:25",
+                "time_needed": 11,
+                "game_score": 12.52,
+                "tries": 5,
+                "game_state": "win"
+            },
+            "BenKnow": {
+                "guessed_word": false,
+                "date": "2016-05-19T10:50:49",
+                "time_needed": 172,
+                "game_score": 10,
+                "tries": 7,
+                "game_state": "win"
+            }
+        }
+    }
+}

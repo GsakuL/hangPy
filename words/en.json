@@ -1,0 +1,20 @@
+{
+    "words": [
+        "car",
+        "phone",
+        "house",
+        "computer",
+        "school",
+        "window",
+        "table",
+        "door",
+        "train"
+    ],
+    "properties": {
+        "langName": "English",
+        "langID": "en"
+    },
+    "rights": {
+        "copyright": "\u00a9 Copyright 2016 LukeSkywalk3r"
+    }
+}

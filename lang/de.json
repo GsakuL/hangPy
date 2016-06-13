@@ -1,0 +1,66 @@
+{
+    "rights": {
+        "copyright": "\u00a9 Copyright 2016 LukeSkywalk3r"
+    },
+    "properties": {
+        "langID": "de",
+        "langName": "Deutsch",
+        "dateFormat": "%d.%m.%Y %H:%M:%S"
+    },
+    "strings": {
+        "title_desc": "Das ist ein Wort-Rate-Spiel",
+        "title": "hangPy",
+        "dec_sep": ",",
+        "game": "Spiel",
+        "language": "Sprache",
+        "dict": "Wörterbuch",
+        "copyright": "Copyright",
+        "menu": "Bitte wähle:",
+        "menu_1": "1 - SPIELEN",
+        "menu_2": "2 - HIGHSCORE",
+        "menu_3": "3 - OPTIONEN",
+        "menu_help": "? - HILFE",
+        "yes": "Ja",
+        "no": "Nein",
+        "menu_x": "x - beenden",
+        "goodbye": "Tschüssi",
+        "loose": "Du hast verloren!",
+        "win": "Du hast gewonnen!",
+        "enter_a_letter": "Bitte gib' einen oder mehrere Buchstaben, oder das Lösungswort ein.",
+        "enter_to_continue": "Drücke [ENTER] um fortzufahren.",
+        "enter_to_confirm": "Drücke [ENTER] um deine Eingaben zu bestätigen.",
+        "prompt_highscore_0": "Gib bitte deinen Namen ein für den Highscore ein,",
+        "prompt_highscore_1": "oder lasse das Feld leer, wenn du das nicht willst.",
+        "score_title": "Dein Ergebnis: ",
+        "score_points": "Deine Gesamtpunktzahl: ",
+        "score_time": "Benötigte Zeit: ",
+        "score_guessed_word": "Hast du das ganze Wort auf einmal erraten?: ",
+        "score_tries": "Gebrauchte Versuche: ",
+        "win_n": "Gewinner",
+        "win_p": "Gewonnen",
+        "loose_n": "Verlierer",
+        "loose_p": "Verloren",
+        "points": "Punkte",
+        "settings_exit": "x - Zurück zum Hauptmenü",
+        "settings_enter_valid": "Dib einen der folgenden Werte ein",
+        "settings_for": " für ",
+        "help_lines": [
+            "Für jeden falschen Buchstaben den du eingibst, verlierst du 0.1 Punkte",
+            "Für je 1 vergangene Sekunde verlierst du 0.025 Punkte.",
+            "FÜr jeden richtigen Buchstaben den du eingibst, erhälst du 2 Punkte.",
+            "Wenn du das gesamte Wort errätst, erhällst du 5 zusätzliche Punkte.",
+            "",
+            "Es ist egal ob du mehrere Buchstaben auf einmal oder einzeln eingibst.",
+            "Gib '!x' ein um das aktuelle Spiel zu verlassen (dein Fortschritt geht verloren!)"
+
+        ],
+        "score_reset": "Um die Bestenliste zu löschen, gib \"RESET\" ein, und drücke die [Enter]-Taste",
+        "score_reset_prompt": "Bist du sicher? (j/N)",
+        "settings_ui_lang": "1 - Sprache der Oberfläche: ",
+        "settings_dict_lang": "2 - Sprache des Wörterbuchs: ",
+        "settings_show_word_on_loose": "3 - Zeige das Lösungswort, wenn du verlierst: ",
+        "settings_show_entered_letters": "4 - Zeige die Buchstaben, die du schon eingegeben hast: ",
+        "settings_start_with_random_letter": "5 - Starte mit einem zufälligem Buchstaben (der nicht deine Punkte beeinflusst): "
+
+    }
+}
